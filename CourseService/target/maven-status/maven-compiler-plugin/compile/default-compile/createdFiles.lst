@@ -1,0 +1,9 @@
+com\university\college\courses\model\Course.class
+com\university\college\courses\repository\CourseRowMapper.class
+com\university\college\courses\config\ApplicationConfig.class
+com\university\college\courses\controller\CourseController.class
+com\university\college\courses\dto\CourseDto.class
+com\university\college\courses\service\CourseService.class
+com\university\college\courses\CourseServiceApplication.class
+com\university\college\courses\irepository\ICourseRepository.class
+com\university\college\courses\repository\CourseRepositoryImpl.class

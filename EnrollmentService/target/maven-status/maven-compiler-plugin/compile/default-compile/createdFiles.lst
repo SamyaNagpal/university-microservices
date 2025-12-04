@@ -1,0 +1,9 @@
+com\university\college\enrollments\config\ApplicationConfig.class
+com\university\college\enrollments\dto\Enrollmentdto.class
+com\university\college\enrollments\model\Enrollment.class
+com\university\college\enrollments\EnrollmentServiceApplication.class
+com\university\college\enrollments\repository\EnrollmentRepositoryImpl.class
+com\university\college\enrollments\repository\EnrollmentRowMapper.class
+com\university\college\enrollments\irepository\IEnrollmentRepository.class
+com\university\college\enrollments\controller\EnrollmentController.class
+com\university\college\enrollments\service\EnrollmentService.class
